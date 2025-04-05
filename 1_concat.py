@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 27 12:02:23 2025
-
-@author: Roh Jun Seok
-
 항공기 운항 실태 조사
 2024년 1월~8월 국내노선 여객 이용률을 바탕으로
 
