@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 27 14:47:38 2025
-
-@author: Roh Jun Seok
-
 데이터 통합 후에 전처리
 """
 import pandas as pd
