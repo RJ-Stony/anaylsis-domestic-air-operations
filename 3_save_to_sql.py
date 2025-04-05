@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-Created on Thu Feb 27 14:53:40 2025
-
-@author: Roh Jun Seok
-
 전처리된 데이터 sql에 저장
 """
 
